@@ -11,14 +11,18 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  height: 800px;
+  width: 800px;
 }
 
 .row {
   display: flex;
+  height: 100%;
+  width: 100%;
 }
 
 .square {
   border: 2px solid black;
-  height: 200px;
-  width: 200px;
+  height: 100%;
+  width: 100%;
 }
