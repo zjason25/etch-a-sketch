@@ -1,3 +1,3 @@
 # Etch-a-sketch
 
-I don't know what it will look like just yet
+A funny looking etch-a-sketch
