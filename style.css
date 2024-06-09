@@ -11,6 +11,13 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+.grid {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   height: 800px;
   width: 800px;
 }
@@ -29,4 +36,8 @@ body {
 
 .colored {
   background-color: rgb(0, 140, 255);
+}
+
+button {
+  margin-bottom: 5px;
 }
